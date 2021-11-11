@@ -1,8 +1,7 @@
-# Linux
-旨在分享个人的Linux学习笔记，包括Linux应用程序设计、Linux驱动程序设计、Uboot
+# Linux应用程序开发
 
-## Linux驱动程序设计
+## shell
 
-## Linux应用程序设计
+## 并发程序设计
 
-## Uboot启动流程
+## 网络程序设计
